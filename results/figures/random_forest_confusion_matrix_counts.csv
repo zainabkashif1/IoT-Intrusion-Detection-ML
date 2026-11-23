@@ -1,0 +1,7 @@
+Experiment,True Attack Predicted Attack,True Attack Predicted Benign,True Benign Predicted Attack,True Benign Predicted Benign
+39 Features - No Balancing,140508,734,793,3909
+15 Features - No Balancing,140425,817,802,3900
+39 Features - Class Weight,140531,711,847,3855
+15 Features - Class Weight,140480,762,859,3843
+39 Features - SMOTE,139991,1251,495,4207
+15 Features - SMOTE,139494,1748,269,4433
