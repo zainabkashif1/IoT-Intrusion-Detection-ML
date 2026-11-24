@@ -1,0 +1,12 @@
+Model,Features,Balancing,Accuracy,Macro-F1
+Majority Baseline,39,None,0.679701,0.101164
+Logistic Regression,39,None,0.840762,0.556466
+Logistic Regression,15,None,0.824823,0.467454
+Decision Tree,39,None,0.831129,0.620353
+Decision Tree,15,None,0.813626,0.578932
+Random Forest,39,None,0.854478,0.648228
+Random Forest,15,None,0.835012,0.616246
+XGBoost,39,None,0.869929,0.666103
+XGBoost,15,None,0.858613,0.612296
+MLP,39,None,0.866023,0.636156
+MLP,15,None,0.854627,0.580288

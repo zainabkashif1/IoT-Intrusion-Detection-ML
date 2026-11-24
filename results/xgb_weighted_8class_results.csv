@@ -1,0 +1,3 @@
+Model,Features,Balancing,Accuracy,Macro-F1
+XGBoost,39,Class Weight,0.7886090300780295,0.636064563723167
+XGBoost,15,Class Weight,0.6963445449762503,0.5857618983397209
